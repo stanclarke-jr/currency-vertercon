@@ -1,6 +1,7 @@
 const currencies = {
   CAD: 'Canadian Dollar',
   USD: 'United States Dollar',
+  EUR: 'Euro',
   AUD: 'Australian Dollar',
   CNY: 'Chinese Yuan',
   CZK: 'Czech Republic Koruna',
@@ -27,7 +28,6 @@ const currencies = {
   THB: 'Thai Baht',
   TRY: 'Turkish Lira',
   ZAR: 'South African Rand',
-  EUR: 'Euro',
 };
 
 export default currencies;
