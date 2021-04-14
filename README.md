@@ -1,3 +1,3 @@
 # VerterCon
 
-A vanilla JavaScript currency converter
+A vanilla JavaScript currency converter.
