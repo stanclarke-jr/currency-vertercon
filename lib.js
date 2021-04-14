@@ -1,4 +1,4 @@
-const baseEndpoint = 'https://api.exchangeratesapi.io/latest';
+const baseEndpoint = 'https://api.ratesapi.io/api/latest';
 const baseRates = {};
 
 export async function fetchRates(base = 'CAD') {
